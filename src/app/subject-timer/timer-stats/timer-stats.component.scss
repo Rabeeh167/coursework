@@ -1,0 +1,15 @@
+.display-container {
+    height: 35vh;
+    width: 50vw;
+    display: flex;
+    border: 2px solid black;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+.timer-stats {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

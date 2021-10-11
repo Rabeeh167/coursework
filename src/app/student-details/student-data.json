@@ -1,0 +1,10 @@
+
+
+[
+    {"name": "Joe", "class": 10, "section": "A", "physics": 80, "Chemistry": 78, "Mathematics": 85},
+    {"name": "Jacob", "class": 10, "section": "C", "physics": 65, "Chemistry": 71, "Mathematics": 82},
+    {"name": "Ravi", "class": 10, "section": "A", "physics": 83, "Chemistry": 71, "Mathematics": 66},
+    {"name": "Athul", "class": 10, "section": "D", "physics": 57, "Chemistry": 54, "Mathematics": 75},
+    {"name": "Rose", "class": 11, "section": "A", "physics": 84, "Chemistry": 75, "Mathematics": 65},
+    {"name": "Rai", "class": 12, "section": "F", "physics": 82, "Chemistry": 58, "Mathematics": 95}
+]

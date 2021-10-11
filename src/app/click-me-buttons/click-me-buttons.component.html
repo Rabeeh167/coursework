@@ -1,0 +1,11 @@
+<div scrollListener (scrolledToBottom)="onScrolledToBottom()">
+    <button
+      class="click-me-btn"
+      *ngFor="let button of buttonList$ | async; let idBtn = index"
+      type="button"
+      (click)="onBtnClick(idBtn + 1)"
+    >
+      Click Me!
+    </button>
+  </div>
+  
